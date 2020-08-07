@@ -1,0 +1,10 @@
+{
+    "driver": "driver/chromedriver.exe",
+    "url": "https://www.saucedemo.com/",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "product_choiced": "//*[@id=\"item_4_title_link\"]/div",
+    "firstname": "José Cristiano",
+    "lastname": "da Silva Lucena",
+    "zipcode": "54090041"
+}
